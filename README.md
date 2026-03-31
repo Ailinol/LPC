@@ -1,3 +1,9 @@
+#Membros do grupo
+1.Liliano Licumba
+2.Joconias Massango
+3.Tomas Macuacua
+
+
 # erlang-lexer
 
 Analisador léxico (lexer) implementado em Erlang como projeto académico. O programa recebe código-fonte como entrada, identifica e classifica cada token, e apresenta os resultados numa tabela formatada.
