@@ -1,8 +1,8 @@
 # Membros do grupo
 
-1.Liliano Licumba
-2.Joconias Massango
-3.Tomas Macuacua
+- Liliano Licumba
+- Joconias Massango
+- Tomas Macuacua
 
 
 # erlang-lexer
